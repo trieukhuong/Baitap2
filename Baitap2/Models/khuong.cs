@@ -6,6 +6,7 @@ using System.Web;
 namespace Baitap2.Models
 {
     public class khuong
+        // chú thích
     {
     }
 }
